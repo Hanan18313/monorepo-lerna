@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '9.0.3',
+0 silly argv   '$0': 'C:\\Users\\han\\AppData\\Local\\Temp\\xfs-c2f1f947\\dlx-11368\\.yarn\\cache\\lerna-npm-9.0.3-48cf5841a6-197c0b0bf7.zip\\node_modules\\lerna\\dist\\cli.js',
+0 silly argv   name: 'utils'
+0 silly argv }
+1 notice cli v9.0.3
+2 verbose packageConfigs Explicit "packages" configuration found in lerna.json. Resolving packages using the configured glob(s): ["packages/*"]
+3 verbose rootPath D:\hwl_workspace\monorepo-root-advance
+4 warn ENOREMOTE No git remote found, skipping repository property
+5 error TypeError: Cannot read properties of undefined (reading 'name')
+5 error     at CreateCommand.execute (C:\Users\han\AppData\Local\Yarn\Berry\cache\@lerna-create-npm-9.0.3-4bc9e43706-10c0.zip\node_modules\@lerna\create\dist\command.js:5796:31)
