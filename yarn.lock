@@ -3831,6 +3831,7 @@ __metadata:
     libnpmaccess: "npm:^10.0.3"
     rimraf: "npm:^6.1.2"
     ts-node: "npm:^10.9.2"
+    tsconfig-paths: "npm:^4.2.0"
     typescript: "npm:^5.9.3"
   languageName: unknown
   linkType: soft
@@ -5433,7 +5434,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsconfig-paths@npm:^4.1.2":
+"tsconfig-paths@npm:^4.1.2, tsconfig-paths@npm:^4.2.0":
   version: 4.2.0
   resolution: "tsconfig-paths@npm:4.2.0"
   dependencies:

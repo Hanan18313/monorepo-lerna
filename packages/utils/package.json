@@ -5,6 +5,7 @@
   "keywords": [],
   "author": "hanweilong <weirdo.han@bjxmail.com>",
   "license": "ISC",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "directories": {
